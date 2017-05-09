@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my FAVORITE color!
 Two moons may be a problem for Wolfman.
 The humidity may be a problem for the Mummy.
@@ -6,3 +7,6 @@ Apparently potatoes can grow there.
 Let's build a colony there!
 You can't grow spuds but you can grow asparagus
 
+=======
+DON'T TERRAFORM ME
+>>>>>>> 263a731c0c46a1b3583e88085ba67b43052cd9eb
